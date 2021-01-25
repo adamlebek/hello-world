@@ -1,2 +1,3 @@
 # hello-world
-learning github
+
+heeej uczę się jak się tego używa
